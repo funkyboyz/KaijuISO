@@ -141,7 +141,7 @@ Compiler: PS2EXE (v1.0.17+)
 ---
 ## 👨‍💻 Author & Maintainer
 
-**Developed by:** Kitichote Amornrattanabongkot (Boong)  
+**Developed by:** Kitichote Amornrattanabongkot  
 **Role:** Senior System Engineer  
 **Company:** Chromatix Computing Solutions (CCS)
 
