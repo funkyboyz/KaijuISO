@@ -3,7 +3,7 @@
     KaijuISO - The Ultimate ISO Creator Tool
     
 .DESCRIPTION
-    A production-grade GUI tool to create ISO files from folders using oscdimg.
+    A lightweight, portable GUI tool to create ISO files from folders using oscdimg.
     Optimized for Windows 10/11 and PowerShell 7 Environment.
 
 .PARAMETER None
@@ -11,14 +11,15 @@
 
 .NOTES
     Version:        1.9.0
-    Author:         Kitichote Amornrattanabongkot (Senior System Engineer)
-    Department:     IFM/O - EP
-    Organization:   PTT Digital Solutions
+    Author:         Kitichote Amornrattanabongkot
+    Role:           Senior System Engineer
+    Organization:   Chromatix Computing Solutions (CCS)
+    Project:        Personal Open Source Project
     Created:        2025-08-21
     Last Updated:   2026-02-10
     
-    Security Level: Internal Use Only
-    Contact:        [Internal Email or Teams Link] (Do not put mobile number)
+    License:        MIT License
+    GitHub:         https://github.com/funkyboyz/KaijuISO
 #>
 
 Add-Type -AssemblyName PresentationFramework

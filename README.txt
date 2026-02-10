@@ -139,11 +139,12 @@ Core Engine: Microsoft oscdimg.exe (Embedded inside EXE)
 Compiler: PS2EXE (v1.0.17+)
 
 ---
-## 👨‍💻 Maintainer & Contact
+## 👨‍💻 Author & Maintainer
 
-**Developed by:** Kitichote Amornrattanabongkot  
+**Developed by:** Kitichote Amornrattanabongkot (Boong)  
 **Role:** Senior System Engineer  
-**Department:** IFM/O - EP Infrastructure Team  
-**Company:** PTT Digital  
+**Company:** Chromatix Computing Solutions (CCS)
 
-> 💬 **Support:** For internal inquiries, please contact via Microsoft Teams or open an issue in this repository.
+> 🌟 **Project Status:** Active / Community Supported  
+> 🐛 **Found a bug?** Please open an issue in this repository.  
+> 💬 **Connect:** [GitHub Profile](https://github.com/funkyboyz)
