@@ -148,3 +148,24 @@ Compiler: PS2EXE (v1.0.17+)
 > 🌟 **Project Status:** Active / Community Supported  
 > 🐛 **Found a bug?** Please open an issue in this repository.  
 > 💬 **Connect:** [GitHub Profile](https://github.com/funkyboyz)
+
+---
+## ☕ Support the Developer
+
+If you find **KaijuISO** useful for your daily work or it saved you some time, you can show your support by buying me a coffee! It helps keep the project alive and fuels future updates.
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/funkyboyz">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://ko-fi.com/funkyboyz">
+  <img src="https://img.shields.io/badge/Ko--fi-F16063?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+</a>
+
+</div>
+
+> 💡 **Note:** This project is free and open-source. Donations are optional but highly appreciated! ❤️
