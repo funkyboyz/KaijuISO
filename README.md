@@ -73,13 +73,13 @@ If you find **KaijuISO** useful for your daily work or it saved you some time, y
 
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/funkyboyz">
+<a href="https://www.buymeacoffee.com/funkyboyz" target="_blank">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
 </a>
 
 &nbsp;&nbsp;
 
-<a href="https://ko-fi.com/funkyboyz">
+<a href="https://ko-fi.com/funkyboyz" target="_blank">
   <img src="https://img.shields.io/badge/Ko--fi-F16063?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
 </a>
 
