@@ -1,5 +1,5 @@
 🦖 KaijuISO
-The Ultimate ISO Creator Tool for IT Professionals Developed by: Kitichote Amornrattanabongkot - Senior System Engineer (IFM/O - EP)
+The Ultimate ISO Creator Tool for IT Professionals Developed by: Kitichote Amornrattanabongkot
 
 KaijuISO is a high-performance, portable GUI utility designed to streamline the ISO creation process. It eliminates the need for complex oscdimg command-line strings by providing a simple drag-and-drop interface for folders and multiple files.
 
