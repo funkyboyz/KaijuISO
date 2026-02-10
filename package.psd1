@@ -1,3 +1,26 @@
+<#
+.SYNOPSIS
+    KaijuISO - The Ultimate ISO Creator Tool
+    
+.DESCRIPTION
+    A production-grade GUI tool to create ISO files from folders using oscdimg.
+    Optimized for Windows 10/11 and PowerShell 7 Environment.
+
+.PARAMETER None
+    No parameters required. The script launches a GUI.
+
+.NOTES
+    Version:        1.9.0
+    Author:         Kitichote Amornrattanabongkot (Senior System Engineer)
+    Department:     IFM/O - EP
+    Organization:   PTT Digital Solutions
+    Created:        2025-08-21
+    Last Updated:   2026-02-10
+    
+    Security Level: Internal Use Only
+    Contact:        [Internal Email or Teams Link] (Do not put mobile number)
+#>
+
 @{
     Root = '.\KaijuISO.ps1'
     ApplicationIconPath = '.\kaijuiso_icon.ico'

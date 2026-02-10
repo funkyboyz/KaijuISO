@@ -137,3 +137,13 @@ GUI Framework: Windows Forms (WinForms) via .NET
 Core Engine: Microsoft oscdimg.exe (Embedded inside EXE)
 
 Compiler: PS2EXE (v1.0.17+)
+
+---
+## 👨‍💻 Maintainer & Contact
+
+**Developed by:** Kitichote Amornrattanabongkot  
+**Role:** Senior System Engineer  
+**Department:** IFM/O - EP Infrastructure Team  
+**Company:** PTT Digital  
+
+> 💬 **Support:** For internal inquiries, please contact via Microsoft Teams or open an issue in this repository.

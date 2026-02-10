@@ -1,15 +1,25 @@
-# ==============================
-# Multi-File/Folder KaijuISO Creator GUI 
-# Author: Kitichote Amornrattanabongkot
-# Email: cupidfunk@gmail.com
-# Create Date: 2025-08-21
-# Modified Date: 2026-02-10
-# Application: KaijuISO Creator
-# Version: 1.9.0
-# Description: A PowerShell script to create ISO files from multiple files or folders using oscdimg.
-# This script provides a GUI for users to drag and drop files/folders, start the ISO creation process, and view progress.
-# Requirements: PowerShell, oscdimg utility (part of Windows ADK)
-# ==============================
+<#
+.SYNOPSIS
+    KaijuISO - The Ultimate ISO Creator Tool
+    
+.DESCRIPTION
+    A production-grade GUI tool to create ISO files from folders using oscdimg.
+    Optimized for Windows 10/11 and PowerShell 7 Environment.
+
+.PARAMETER None
+    No parameters required. The script launches a GUI.
+
+.NOTES
+    Version:        1.9.0
+    Author:         Kitichote Amornrattanabongkot (Senior System Engineer)
+    Department:     IFM/O - EP
+    Organization:   PTT Digital Solutions
+    Created:        2025-08-21
+    Last Updated:   2026-02-10
+    
+    Security Level: Internal Use Only
+    Contact:        [Internal Email or Teams Link] (Do not put mobile number)
+#>
 
 $ErrorActionPreference = 'Stop'
 $root = $PSScriptRoot
