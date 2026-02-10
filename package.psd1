@@ -11,7 +11,6 @@
         FileVersion = '1.9.0'
         ProductName = 'KaijuISO Creator'
         ProductVersion = '1.9.0'
-        Copyright = '(c) PTTDigital Solutions Company Limited - All rights reserved.'
         RequireElevation = $false
         PackageType = 'Console'
         # icon = 'kaijuiso_icon.ico'
