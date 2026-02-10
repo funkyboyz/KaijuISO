@@ -8,10 +8,9 @@
         # DotNetVersion = 'v7.0'       # ใช้ PowerShell 7 / .NET 7
         DotNetVersion = 'v4.6.2'
         SelfContained = $true
-        FileVersion = '1.0.0'
-        FileDescription = 'IFM/O - EP Infrastructure Internal Use Only'
+        FileVersion = '1.9.0'
         ProductName = 'KaijuISO Creator'
-        ProductVersion = '1.0.0'
+        ProductVersion = '1.9.0'
         Copyright = '(c) PTTDigital Solutions Company Limited - All rights reserved.'
         RequireElevation = $false
         PackageType = 'Console'
