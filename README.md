@@ -1,9 +1,6 @@
 # 🦖 KaijuISO: The Ultimate ISO Creator Tool
 
-----------------------------------------
-KaijuISO: โปรแกรมแปลงไฟล์/โฟลเดอร์เป็น ISO
-
-KaijuISO is a high-performance, portable GUI utility designed to streamline the ISO creation process. It eliminates the need for complex `oscdimg` command-line strings by providing a simple drag-and-drop interface for folders and multiple files.
+KaijuISO (โปรแกรมแปลงไฟล์/โฟลเดอร์เป็น ISO) is a high-performance, portable GUI utility designed to streamline the ISO creation process. It eliminates the need for complex `oscdimg` command-line strings by providing a simple drag-and-drop interface for folders and multiple files.
 
 ---
 
