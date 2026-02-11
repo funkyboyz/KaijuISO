@@ -44,17 +44,17 @@ KaijuISO (โปรแกรมแปลงไฟล์/โฟลเดอร์
 * **Permission Fixes:** Resolved conflicts between Local Documents and OneDrive sync paths.
 
 ### 🛠️ Tech Stack
-* **Language: PowerShell 7.4+
-* **UI: Windows Forms via .NET
-* **Compiler: PS2EXE (v1.0.17+)
-* **Core Engine: Microsoft oscdimg.exe (Embedded)
+> **Language:** PowerShell 7.4+
+> **UI:** Windows Forms via .NET
+> **Compiler: PS2EXE** (v1.0.17+)
+> **Core Engine:** Microsoft oscdimg.exe (Embedded)
 
 ---
 ## 👨‍💻 Author & Maintainer
 
-* ** Developed by:** Kitichote Amornrattanabongkot  
-* ** Role:** Senior System Engineer  
-* ** Company:** Chromatix Computing Solutions (CCS)
+* **Developed by:** Kitichote Amornrattanabongkot  
+* **Role:** Senior System Engineer  
+* **Company:** Chromatix Computing Solutions (CCS)
 
 > 🌟 **Project Status:** Active / Community Supported  
 > 🐛 **Found a bug?** Please open an issue in this repository.  
